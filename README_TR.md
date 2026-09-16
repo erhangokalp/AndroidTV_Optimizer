@@ -4,7 +4,7 @@
 
 ---
 
-![Android TV Optimizer](screenshot.png)
+![Android TV Optimizer](Screenshot_4.jpg)
 
 > **Tüm Android TV ve Google TV cihazlarını (Philips, TCL, Xiaomi, Sony, Vestel vb.) tek tıkla gereksiz arka plan servislerinden, reklam ve öneri şeritlerinden arındıran; menü geçişlerini hızlandıran güvenli masaüstü aracı.**
 
