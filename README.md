@@ -4,7 +4,7 @@
 
 ---
 
-![Android TV Optimizer](screenshot.png)
+![Android TV Optimizer](Screenshot_4.jpg)
 
 > **A safe, portable, multi-brand GUI tool to debloat, speed up, and remove ads/recommendations from Android TV & Google TV devices (Philips, TCL, Xiaomi, Sony, Vestel, Chromecast, etc.) via ADB.**
 
